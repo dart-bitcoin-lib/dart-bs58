@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:base_x/base_x.dart';
+import 'package:dart_base_x/dart_base_x.dart';
 
 /// Base58 Encoder/Decoder
 Base58Codec bs58 =

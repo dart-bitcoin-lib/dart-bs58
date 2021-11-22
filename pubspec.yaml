@@ -1,6 +1,6 @@
 name: dart_bs58
 description: Dart component to compute base 58 encoding. This encoding is typically used for cryptocurrencies such as Bitcoin.
-version: 1.0.0
+version: 1.0.1
 homepage: https://www.github.com/dart-bitcoin-lib/dart_bs58
 repository: https://www.github.com/dart-bitcoin-lib/dart_bs58
 issue_tracker: https://www.github.com/dart-bitcoin-lib/dart_bs58/issues
